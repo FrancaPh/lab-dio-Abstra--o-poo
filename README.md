@@ -9,6 +9,9 @@
 Esse projeto foi criado como desafio de um lab durante um bootcamp da **[DIO](https://web.dio.me)** com parceria do Santander, [Santander 2024 - Backend com Java](https://web.dio.me/track/santander-2024-backend-com-java). O desafio consiste na criação de um código em Java, para colocar em prática umas das principais ferramentas da OO: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO.
 
 ## Desafio
+
+![abstraction scheme](https://github.com/FrancaPh/lab-dio-abstracao-poo/blob/main/branch_scheme.png)
+
 ### 👣 Passo-a-Passo
 1. Vamos ABSTRAIR o DOMÍNIO Bootcamp e MODELAR seus ATRIBUTOS E MÉTODOS
 2. Criaremos as CLASSES: Bootcamp, Cursos, Mentorias e Devs e vamos relaciona-las
